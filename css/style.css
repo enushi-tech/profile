@@ -537,6 +537,11 @@ img {
     margin-bottom: 20px;
   }
 
+  /* Certification */
+  .cert-list {
+    font-size: 12px;
+    line-height: 1.7;
+  }
   /* フッター */
   .footer {
     padding: 20px;
